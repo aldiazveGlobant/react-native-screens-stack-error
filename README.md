@@ -1,6 +1,8 @@
 # react-native-screens-stack-error
 Demo app to showcase a bug on react-native-screens
 
+This bug only occours on iOS, Android build runs as espected
+
 To run: 
 
 ```
