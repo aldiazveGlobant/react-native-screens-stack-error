@@ -1,0 +1,51 @@
+ninja: Entering directory `/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/android/app/.cxx/Debug/543f184v/x86'
+[0/2] Re-checking globbed directories...
+[1/20] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o
+[2/20] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o
+In file included from /Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp:1:
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:19:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .left = (float)value["left"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:20:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .top = (float)value["top"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:21:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .right = (float)value["right"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:22:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .bottom = (float)value["bottom"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4 warnings generated.
+[3/20] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o
+[4/20] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp.o
+[5/20] Building CXX object CMakeFiles/myapp_appmodules.dir/MainApplicationModuleProvider.cpp.o
+[6/20] Building CXX object CMakeFiles/myapp_appmodules.dir/MainApplicationTurboModuleManagerDelegate.cpp.o
+[7/20] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-screens/common/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o
+[8/20] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o
+[9/20] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o
+[10/20] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o
+[11/20] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+In file included from /Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:1:
+In file included from /Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:6:
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:19:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .left = (float)value["left"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:20:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .top = (float)value["top"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:21:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .right = (float)value["right"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.h:22:7: warning: designated initializers are a C99 feature [-Wc99-extensions]
+      .bottom = (float)value["bottom"].getDouble(),
+      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4 warnings generated.
+[12/20] Linking CXX shared library /Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/android/app/build/intermediates/cxx/Debug/543f184v/obj/x86/libreact_codegen_safeareacontext.so
+[13/20] Building CXX object CMakeFiles/myapp_appmodules.dir/OnLoad.cpp.o
+[14/20] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o
+[15/20] Building CXX object CMakeFiles/myapp_appmodules.dir/MainComponentsRegistry.cpp.o
+[16/20] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o
+[17/20] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o
+[18/20] Linking CXX shared library /Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/android/app/build/intermediates/cxx/Debug/543f184v/obj/x86/libreact_codegen_rnscreens.so
+[19/20] Building CXX object CMakeFiles/myapp_appmodules.dir/Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o
+[20/20] Linking CXX shared library /Users/alejandro.diaz01/Documents/billet/react-native-screens-stack-error/android/app/build/intermediates/cxx/Debug/543f184v/obj/x86/libmyapp_appmodules.so
